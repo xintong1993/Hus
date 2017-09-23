@@ -1,6 +1,4 @@
 
-
-
 package student_player;
 
 import hus.HusBoardState;
